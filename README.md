@@ -1,4 +1,6 @@
-# 📚 Topic to Notes — Auto Research & Save to Notion
+# AI Automation: Topic to Notes — Auto Research & Save to Notion
+
+⭐️**Link to the workflow** https://needle.app/workflow-templates/generate-study-notes-in-notion
 
 > Drop a topic in a Google Sheet. Get fully researched, beautifully formatted notes in Notion. Automatically.
 
